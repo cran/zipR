@@ -5,9 +5,6 @@ knitr::opts_chunk$set(
 )
 
 ## ----echo=FALSE----------------------------------------------------------
-library(devtools)
-
-devtools::install_github("leslie-huang/zipR")
 
 library(zipR)
 
